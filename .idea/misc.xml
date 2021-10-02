@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/btn_orange.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/btn_purple_a400.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/btn_rect_teal.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/btn_rounded_amber.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/btn_rounded_indigo_outline.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/drawable/btn_rounded_yellow_white.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout/activity_book_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_book_reading2.xml" value="0.10215051302474454" />
+        <entry key="app/src/main/res/layout/activity_books_filter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/dialog_book_sections.xml" value="0.10171514100550329" />
+        <entry key="app/src/main/res/layout/fragment_home2.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_user_settings.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
